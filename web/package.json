@@ -181,7 +181,7 @@
     "react-dev-inspector": "^2.0.1",
     "remark-loader": "^6.0.0",
     "simple-icons": "^16.23.0",
-    "storybook": "^9.1.4",
+    "storybook": "^9.1.21",
     "tailwindcss": "^3",
     "terser-webpack-plugin": "^5.3.11",
     "ts-node": "^10.9.2",
